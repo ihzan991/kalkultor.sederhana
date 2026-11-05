@@ -1,0 +1,12 @@
+
+{
+    "name": "kalkulator-modern",
+    "version": "1.0.0",
+    "description": "Aplikasi kalkulator sederhana HTML CSS JavaScript",
+    "main": "script.js",
+    "scripts": {
+        "start": "echo Buka file index.html di browser"
+    },
+    "author": "Developer",
+    "license": "MIT"
+}
